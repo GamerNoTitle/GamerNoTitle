@@ -15,3 +15,7 @@ A python user, always use it to develop something
 A developer of [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) [Plugins](https://github.com/MCDReforged-Plugins), the author of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), [MCDR-WikiSearcher](https://github.com/GamerNoTitle/MCDR-WikiSearcher) and so on
 
 My website has been added to sidebar, you may find it. Welcome to all of you to visit my website! | [aifadian](https://afdian.net/@GamerNoTitle) | [Paypal](https://paypal.me/GamerNoTitle)
+
+---
+#### Statistical data
+![](https://github-readme-stats.vercel.app/api?username=GamerNoTitle&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
