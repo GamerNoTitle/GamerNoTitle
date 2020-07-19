@@ -4,7 +4,7 @@
 
 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)[插件](https://github.com/MCDReforged-Plugins)开发者，开发过[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)、[MCDR-Waypoints](https://github.com/GamerNoTitle/MCDR-Waypoints)等插件
 
-个人网站侧栏有，欢迎大家访问，与我联系可以发邮件|[爱发电](https://afdian.net/@GamerNoTitle)
+个人网站侧栏有，欢迎大家访问，与我联系可以发邮件 | [爱发电](https://afdian.net/@GamerNoTitle)
 
 ---
 
