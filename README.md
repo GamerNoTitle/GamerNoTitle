@@ -22,3 +22,6 @@ My website has been added to sidebar, you may find it. Welcome to all of you to 
 
 #### Visitors (Since 2020/10/25)
 ![](https://count.getloli.com/get/@GamerNoTitle?theme=gelbooru)
+
+#### Genshin Impact Statics
+![](https://genshin-card.getloli.com/17/20700517.png)
