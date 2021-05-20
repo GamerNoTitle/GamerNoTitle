@@ -2,7 +2,9 @@
 
 平时喜欢用python开发一些奇奇怪怪的东西
 
-因Github正在清理脚本仓库，所以我删除了我的仓库（要不然就被封号惹……），晚点脚本界再见ヾ(￣▽￣)Bye~Bye~
+因Github正在清理脚本仓库，所以我删除了我的仓库（要不然就被封号惹……），晚点脚本界再见ヾ(￣▽￣)Bye\~Bye\~
+
+讨论区https://github.com/GamerNoTitle/GamerNoTitle/discussions/2
 
 ---
 #### Statistical data
