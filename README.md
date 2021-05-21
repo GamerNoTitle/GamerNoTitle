@@ -4,7 +4,7 @@
 
 因Github正在清理脚本仓库，所以我删除了我的仓库（要不然就被封号惹……），晚点脚本界再见ヾ(￣▽￣)Bye\~Bye\~
 
-讨论区https://github.com/GamerNoTitle/GamerNoTitle/discussions/2
+讨论区：[关于得知Github查封Action仓库的信息后我自行删除脚本的这档事 #2](https://github.com/GamerNoTitle/GamerNoTitle/discussions/2)
 
 ---
 #### Statistical data
