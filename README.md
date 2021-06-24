@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=GamerNoTitle&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
 #### Visitors (Since 2020/10/25)
-![](https://count.getloli.com/get/@GamerNoTitle?theme=gelbooru)
+![](https://count.getloli.com/get/@GamerNoTitle?theme=rule34)
 
 #### Genshin Impact Statics
 ![](https://genshin-card.getloli.com/rand/20700517.png)
