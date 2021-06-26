@@ -1,8 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
 
-这里是GamerNoTitle，一个~~即将参加2021年高考的高中生~~参加完了2021高考的高中生
+这里是GamerNoTitle，一个摸鱼小能手
 
-平时喜欢用python开发一些奇奇怪怪的东西
+平时喜欢用python开发一些奇奇怪怪的东西，正在学习CTF相关内容（求大佬带飞）
+
+~~正在为大学填志愿而烦恼o(≧口≦)o~~
 
 因Github正在清理脚本仓库，所以我删除了我的仓库（要不然就被封号惹……），晚点脚本界再见ヾ(￣▽￣)Bye\~Bye\~
 
