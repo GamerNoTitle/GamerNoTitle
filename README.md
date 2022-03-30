@@ -1,12 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
 
-这里是GamerNoTitle，一个摸鱼小能手
+这里是GamerNoTitle，一个摸鱼小能手，平时喜欢用python开发一些奇奇怪怪的东西，正在学习PWN
 
-平时喜欢用python开发一些奇奇怪怪的东西，正在学习CTF相关内容（求大佬带飞）
+本人Github账号汇总：**GamerNoTitle** \| [ElainaMoe](https://github.com/ElainaMoe)（脚本相关仓库都在这里） \| [Ninym](https://github.com/Ninym)（API相关内容在这里）
 
-因Github正在清理脚本仓库，所以我删除了我的仓库（要不然就被封号惹……），晚点脚本界再见ヾ(￣▽￣)Bye\~Bye\~
-
-讨论区：[关于得知Github查封Action仓库的信息后我自行删除脚本的这档事 #2](https://github.com/GamerNoTitle/GamerNoTitle/discussions/2)
+有啥想实现的脚本或者有啥想实现的API可以通过邮件找我：[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，当然如果你有什么想开发的项目想寻求技术支持也可以通过这种方式找我哒\~
 
 ---
 #### Statistical data
