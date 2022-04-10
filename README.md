@@ -1,7 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
-
-![](https://github-profile-trophy.vercel.app/?username=GamerNoTitle)
-
+<div align='center'>
+  
+  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
+  ![](https://github-profile-trophy.vercel.app/?username=GamerNoTitle)
+  
+</div>
 这里是GamerNoTitle，一个摸鱼小能手，平时喜欢用python开发一些奇奇怪怪的东西，正在学习PWN
 
 本人Github账号汇总：**GamerNoTitle** \| [ElainaMoe](https://github.com/ElainaMoe)（脚本相关仓库都在这里） \| [Ninym](https://github.com/Ninym)（API相关内容在这里）
