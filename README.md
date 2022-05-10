@@ -19,3 +19,6 @@
 
 #### Genshin Impact Statics
 ![](https://genshin-card.getloli.com/rand/20700517.png)
+
+#### Netease Cloud Music
+![card](https://cdn.jsdelivr.net/gh/ElainaMoe/netease-cloud-music-card/card.svg)
