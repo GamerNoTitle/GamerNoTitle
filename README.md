@@ -10,6 +10,8 @@
 
 有啥想实现的脚本或者有啥想实现的API可以通过邮件找我：[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，当然如果你有什么想开发的项目想寻求技术支持也可以通过这种方式找我哒\~
 
+如果Github的仓库被官方封禁了，你还可以在这里找到我的仓库 https://gogs.console.bili33.top/
+
 ---
 #### Statistical data
 ![](https://github-readme-stats.vercel.app/api?username=GamerNoTitle&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
