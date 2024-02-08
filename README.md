@@ -1,9 +1,10 @@
 <div align='center'>
   
-  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
+  ![Profile](https://github-widgetbox.vercel.app/api/profile?username=GamerNoTitle&data=followers,repositories,stars,commits)
   ![](https://github-profile-trophy.vercel.app/?username=GamerNoTitle)
   
 </div>
+
 这里是GamerNoTitle，一个摸鱼小能手，平时喜欢用python开发一些奇奇怪怪的东西
 
 有啥想实现的脚本或者有啥想实现的API可以通过邮件找我：[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，当然如果你有什么想开发的项目想寻求技术支持也可以通过这种方式找我哒\~
