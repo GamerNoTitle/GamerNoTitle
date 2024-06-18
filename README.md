@@ -5,13 +5,11 @@
   
 </div>
 
-这里是GamerNoTitle，一个摸鱼小能手，平时喜欢用python开发一些奇奇怪怪的东西
+Blog: [https://bili33.top](https://bili33.top)
 
-有啥想实现的脚本或者有啥想实现的API可以通过邮件找我：[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，当然如果你有什么想开发的项目想寻求技术支持也可以通过这种方式找我哒\~
+Telegram PM: [https://t.me/PaffCreamPMbot](https://t.me/PaffCreamPMbot)
 
-如果Github的仓库被官方封禁了，你还可以在这里找到我的仓库 [http://git.bili33.top/](http://git.bili33.top/explore/repos)
-
-商单请联系[Telegram@PaffCreamPMBot](https://t.me/PaffCreamPMbot)或者发送邮件到[GamerNoTitle@outlook.com](mailto:GamerNoTitle@outlook.com)，商单仓库在这里 -> https://github.com/PaffCream
+Telegram Channel: [https://t.me/PaffChannel](https://t.me/PaffChannel)
 
 ---
 #### Statistical data
