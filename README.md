@@ -11,6 +11,8 @@ Telegram PM: [https://t.me/PaffCreamPMbot](https://t.me/PaffCreamPMbot)
 
 Telegram Channel: [https://t.me/PaffChannel](https://t.me/PaffChannel)
 
+Telegram Group: [https://t.me/DohnaNyan](https://t.me/DohnaNyan)
+
 ---
 #### Statistical data
 ![](https://github-readme-stats.vercel.app/api?username=GamerNoTitle&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
