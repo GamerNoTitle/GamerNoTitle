@@ -27,7 +27,7 @@
 <br/>  
 
 
-## Static  
+## Static | 统计
 <div align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=GamerNoTitle&data=followers,repositories,stars,commits" align="center" height="" width="" />
 </div>  
@@ -36,7 +36,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set | 技能点
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -49,7 +49,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats | Github 详情
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
@@ -67,7 +67,7 @@
 
 
 
-### Visitors  
+### Visitors | 访客量
 <div align="center">
 <img src="https://count.getloli.com/get/@GamerNoTitle?theme=rule34" align="center" height="" width="" />
 </div>  
@@ -76,7 +76,7 @@
 <br/>  
 
 
-## Recent Posts on My [Blog](https://bili33.top)
+## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
 - [迁移自定义域名邮箱服务到Larksuite（飞书国际版）](https://bili33.top/posts/Move-My-Email-to-Larksuite/)
 - [第八届西湖论剑·网络安全大会初赛Writeup](https://bili33.top/posts/CTF-West-Lake-2025-Preliminary-round-Writeup/)
