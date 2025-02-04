@@ -13,11 +13,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set timezone to Asia/Shanghai
+        run: |
+          echo "TZ=Asia/Shanghai" >> $GITHUB_ENV
+          sudo timedatectl set-timezone Asia/Shanghai
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://bili33.top/atom.xml"
           max_post_count: 10
           template: "$newline- [$date $title]($url)"
-          date_format: "yyyy-mm-dd HH:MM:ss"
-          
+          date_format: "yyyy-mm-dd HH:MM:ss"  # 使用所需的格式
