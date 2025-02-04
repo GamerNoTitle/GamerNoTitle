@@ -77,8 +77,17 @@
 
 
 ## Recent Posts on My [Blog](https://bili33.top)
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [迁移自定义域名邮箱服务到Larksuite（飞书国际版）](https://bili33.top/posts/Move-My-Email-to-Larksuite/)
+- [第八届西湖论剑·网络安全大会初赛Writeup](https://bili33.top/posts/CTF-West-Lake-2025-Preliminary-round-Writeup/)
+- [2025软件系统安全赛华南赛区（CCSSSC2025）Writeup - TEAM Volcania](https://bili33.top/posts/CTF-CCSSSC2025-Preliminary-round-Writeup/)
+- [2024 CISCN x 长城杯铁人三项 初赛Writeup](https://bili33.top/posts/CTF-CISCN2024-Preliminary-round-Writeup/)
+- [2024年 GDUTCTF 个人WriteUp](https://bili33.top/posts/GDUTCTF2024-Writeup/)
+- [ADCTF2024 个人Writeup](https://bili33.top/posts/ADCTF2024-Writeup/)
+- [从零开始！在红米AX6000路由器上刷入Openwrt](https://bili33.top/posts/Flashing-Openwrt-on-Redmi-AX6000/)
+- [中国科学技术大学第十一届信息安全大赛（Hackgame2024）个人题解Writeup](https://bili33.top/posts/CTF-Hackergame2024-Writeup/)
+- [通过TP-LINK WAR308备份文件提取漏洞获得路由器root权限](https://bili33.top/posts/Hacking-TL-WAR308-Router-and-Get-root-Access/)
+- [2024第四届“网鼎杯”网络安全大赛青龙组初赛Writeup](https://bili33.top/posts/CTF-Wangding2024-Qinglong-Preliminary-round-Writeup/)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
