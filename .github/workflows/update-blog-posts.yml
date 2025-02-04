@@ -18,5 +18,6 @@ jobs:
         with:
           feed_list: "https://bili33.top/atom.xml"
           max_post_count: 10
-          template: "- [[$date] $title]($url)$newline"
+          template: "- [$date $title]($url)$newline"
+          date_format: "yyyy-mm-dd HH:MM:ss"
           
