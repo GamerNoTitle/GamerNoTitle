@@ -78,7 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
-- [2025-02-21 16:16:15 The-Start-of-AZ100](https://bili33.top/posts/The-Start-of-AZ100/)
+- [2025-02-21 16:16:15 使用教育邮箱注册AZ100（Azure 100$ 教育优惠）](https://bili33.top/posts/The-Start-of-AZ100/)
 - [2025-02-09 10:54:41 VNCTF2025 个人Writeup（垂死挣扎记录）](https://bili33.top/posts/VNCTF2025-Writeup/)
 - [2025-01-25 12:07:57 迁移自定义域名邮箱服务到Larksuite（飞书国际版）](https://bili33.top/posts/Move-My-Email-to-Larksuite/)
 - [2025-01-18 18:35:00 第八届西湖论剑·网络安全大会初赛Writeup](https://bili33.top/posts/CTF-West-Lake-2025-Preliminary-round-Writeup/)
