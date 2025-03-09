@@ -78,6 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
+- [2025-03-09 17:03:20 美化我的 Windows Powershell 全纪录](https://bili33.top/posts/Beatify-My-Powershell/)
 - [2025-02-21 16:16:15 使用教育邮箱注册AZ100（Azure 100$ 教育优惠）](https://bili33.top/posts/The-Start-of-AZ100/)
 - [2025-02-09 10:54:41 VNCTF2025 个人Writeup（垂死挣扎记录）](https://bili33.top/posts/VNCTF2025-Writeup/)
 - [2025-01-25 12:07:57 迁移自定义域名邮箱服务到Larksuite（飞书国际版）](https://bili33.top/posts/Move-My-Email-to-Larksuite/)
@@ -86,8 +87,7 @@
 - [2024-12-15 23:48:18 2025 CISCN x 长城杯铁人三项 初赛Writeup](https://bili33.top/posts/CTF-CISCN2025-Preliminary-round-Writeup/)
 - [2024-12-09 20:43:17 2024年 GDUTCTF 个人WriteUp](https://bili33.top/posts/GDUTCTF2024-Writeup/)
 - [2024-12-07 14:28:01 ADCTF2024 个人Writeup](https://bili33.top/posts/ADCTF2024-Writeup/)
-- [2024-11-10 21:26:43 从零开始！在红米AX6000路由器上刷入Openwrt](https://bili33.top/posts/Flashing-Openwrt-on-Redmi-AX6000/)
-- [2024-11-09 19:19:47 中国科学技术大学第十一届信息安全大赛（Hackgame2024）个人题解Writeup](https://bili33.top/posts/CTF-Hackergame2024-Writeup/)<!-- BLOG-POST-LIST:END -->
+- [2024-11-10 21:26:43 从零开始！在红米AX6000路由器上刷入Openwrt](https://bili33.top/posts/Flashing-Openwrt-on-Redmi-AX6000/)<!-- BLOG-POST-LIST:END -->
 <br />
 
 ----
