@@ -78,7 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
-- [2025-05-04 03:54:33 记第一次为 CTF 比赛出题的经历和踩过的坑](https://bili33.top/posts/The-First-Experience-of-Making-CTF-Questions/)
+- [2025-05-04 03:54:33 记第一次为 CTF 比赛出题的经历和踩过的坑](https://bili33.top/posts/The-First-Experience-of-Making-CTF-Challenges/)
 - [2025-04-26 15:06:47 第十六届蓝桥杯省赛个人 Writeup](https://bili33.top/posts/Lanqiao-CTF-2025-District-Round-Writeup/)
 - [2025-03-30 15:59:55 【Volcania】2025 数字中国创新大赛数据安全产业积分争夺赛初赛 Writeup](https://bili33.top/posts/CTF-DCIC2025-Data-Security-Preliminary-round-Writeup/)
 - [2025-03-25 00:08:37 【Volcania】软件系统安全赛 CCSSSC 2025 华南赛区区域线下赛复盘](https://bili33.top/posts/CTF-CCSSSC2025-Regional-Offline-Competition/)
