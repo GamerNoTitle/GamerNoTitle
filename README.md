@@ -78,7 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
-- [2025-05-27 00:42:59 【更新中】CTF Web3 Guide](https://bili33.top/posts/CTF-Web3-Guide/)
+- [2025-05-27 00:42:59 【更新中】Web3 CTF 从入门到入土](https://bili33.top/posts/CTF-Web3-Guide/)
 - [2025-05-27 00:42:56 记一次因修改了 WindowsApps 文件夹权限导致的 UWP 应用无法通过运行打开的修复过程](https://bili33.top/posts/A-Log-that-Repair-Process-of-UWP-Apps-Failing-to-Open-Due-to-Modified-Permissions-of-the-WindowsApps-Folder/)
 - [2025-05-25 20:03:10 第十八届软件系统安全赛 CCSSSC 2025 全国总决赛复盘（旅行日记）](https://bili33.top/posts/CTF-CCSSSC2025-National-Finals/)
 - [2025-05-04 03:54:33 记第一次为 CTF 比赛出题的经历和踩过的坑](https://bili33.top/posts/The-First-Experience-of-Making-CTF-Challenges/)
