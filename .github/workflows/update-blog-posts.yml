@@ -20,7 +20,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://bili33.top/atom.xml"
+          feed_list: "https://raw.githubusercontent.com/GamerNoTitle/GamerNoTitle.github.io/refs/heads/master/atom.xml"
           max_post_count: 10
           template: "$newline- [$date $title]($url)"
           date_format: "yyyy-mm-dd HH:MM:ss"  # 使用所需的格式
