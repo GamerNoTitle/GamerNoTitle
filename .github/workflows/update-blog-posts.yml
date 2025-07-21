@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Data sync
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -23,7 +23,8 @@ jobs:
           feed_list: "https://raw.githubusercontent.com/GamerNoTitle/GamerNoTitle.github.io/refs/heads/master/atom.xml"
           max_post_count: 10
           template: "$newline- [$date $title]($url)"
-          date_format: "yyyy-mm-dd HH:MM:ss"  # 使用所需的格式
+          date_format: "yyyy-mm-dd HH:MM:ss"
+          
   sync-wakatime-data:
     name: Sync wakatime data to Github gists
     runs-on: ubuntu-latest
@@ -31,6 +32,6 @@ jobs:
       - name: wakatime-sync
         uses: superman66/wakatime-sync@v1.0.0
         env:
-          WAKATIME_API_KEY: ${{ secret.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secret.GH_GIST_TOKEN }}
-          GIST_ID: ${{ secret.GH_GIST_ID }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GH_GIST_ID }}
