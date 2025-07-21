@@ -26,7 +26,7 @@ jobs:
           date_format: "yyyy-mm-dd HH:MM:ss"
           
   sync-wakatime-data:
-    name: Sync wakatime data to Github gists
+    name: Sync wakatime data to Github gists (Since 2025/7/22 1:40 CST)
     runs-on: ubuntu-latest
     steps:
       - name: wakatime-sync
