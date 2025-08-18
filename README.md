@@ -78,7 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
-- [2025-08-18 16:59:21 LilCTF2025 Writeup](https://bili33.top/posts/LilCTF2025-Writeup/)
+- [2025-08-18 16:59:21 【Volcania】LilCTF2025 Writeup](https://bili33.top/posts/LilCTF2025-Writeup/)
 - [2025-06-22 12:37:00 【Volcania】DASCTF 2025 上半年线上赛 Writeup](https://bili33.top/posts/DASCTF-2025-First-Half-Writeup/)
 - [2025-05-27 00:42:59 【更新中】Web3 CTF 从入门到入土](https://bili33.top/posts/CTF-Web3-Guide/)
 - [2025-05-27 00:42:56 记一次因修改了 WindowsApps 文件夹权限导致的 UWP 应用无法通过运行打开的修复过程](https://bili33.top/posts/A-Log-that-Repair-Process-of-UWP-Apps-Failing-to-Open-Due-to-Modified-Permissions-of-the-WindowsApps-Folder/)
