@@ -78,6 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
+- [2025-09-10 22:49:15 【Volcania】2025 湾区杯初赛 Writeup](https://bili33.top/posts/CTF-GBACC2025-Preliminary-Round-Writeup/)
 - [2025-08-18 16:59:21 【Volcania】LilCTF2025 Writeup](https://bili33.top/posts/LilCTF2025-Writeup/)
 - [2025-06-22 12:37:00 【Volcania】DASCTF 2025 上半年线上赛 Writeup](https://bili33.top/posts/DASCTF-2025-First-Half-Writeup/)
 - [2025-05-27 00:42:59 【更新中】Web3 CTF 从入门到入土](https://bili33.top/posts/CTF-Web3-Guide/)
@@ -86,8 +87,7 @@
 - [2025-05-04 03:54:33 记第一次为 CTF 比赛出题的经历和踩过的坑](https://bili33.top/posts/The-First-Experience-of-Making-CTF-Challenges/)
 - [2025-04-26 15:06:47 第十六届蓝桥杯省赛个人 Writeup](https://bili33.top/posts/Lanqiao-CTF-2025-District-Round-Writeup/)
 - [2025-03-30 15:59:55 【Volcania】2025 数字中国创新大赛数据安全产业积分争夺赛初赛 Writeup](https://bili33.top/posts/CTF-DCIC2025-Data-Security-Preliminary-round-Writeup/)
-- [2025-03-25 00:08:37 【Volcania】第十八届软件系统安全赛 CCSSSC 2025 华南赛区区域线下赛复盘](https://bili33.top/posts/CTF-CCSSSC2025-Regional-Offline-Competition/)
-- [2025-03-22 15:30:29 【Volcania】2025 数字创新中国大赛数字安全赛道时空数据安全赛题暨三明市第五届“红名谷”杯大赛初赛 Writeup](https://bili33.top/posts/CTF-Hongminggu2025-Preliminary-round-Writeup/)<!-- BLOG-POST-LIST:END -->
+- [2025-03-25 00:08:37 【Volcania】第十八届软件系统安全赛 CCSSSC 2025 华南赛区区域线下赛复盘](https://bili33.top/posts/CTF-CCSSSC2025-Regional-Offline-Competition/)<!-- BLOG-POST-LIST:END -->
 <br />
 
 ----
