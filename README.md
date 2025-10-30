@@ -78,7 +78,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
-- [2025-10-25 20:33:43 2025 羊城杯决赛个人做题思路](https://bili33.top/posts/CTF-YCB2025-Finals/)
+- [2025-10-25 20:33:43 2025 羊城杯决赛个人做题思路 Writeup](https://bili33.top/posts/CTF-YCB2025-Finals/)
 - [2025-09-30 16:53:50 2025 湾区杯决赛（AKA 珠海旅行记录）](https://bili33.top/posts/CTF-GBACC2025-Finals/)
 - [2025-09-10 22:49:15 【Volcania】2025 湾区杯初赛 Writeup](https://bili33.top/posts/CTF-GBACC2025-Preliminary-Round-Writeup/)
 - [2025-08-18 16:59:21 【Volcania】LilCTF2025 Writeup](https://bili33.top/posts/LilCTF2025-Writeup/)
