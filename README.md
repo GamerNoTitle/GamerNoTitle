@@ -76,6 +76,15 @@
 <br/>  
 
 
+### Osu! Status
+
+<div align="center">
+<img src="https://osu-profile-stats.vercel.app/api/profile-stats/GamerNoTitle?version=full&height=200" />
+</div>
+
+<br/>
+
+
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
 - [2025-10-25 20:33:43 2025 羊城杯决赛个人做题思路 Writeup](https://bili33.top/posts/CTF-YCB2025-Finals/)
