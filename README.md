@@ -87,6 +87,7 @@
 
 ## Recent Posts on My [Blog](https://bili33.top) | 近期[博客](https://bili33.top)文章
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-19 20:59:03 使用 bkcrack 对 ZipCrypto 加密的 ZIP 文件进行明文爆破](https://bili33.top/posts/bkcrack-known-bytes-attack-decipher/)
 - [2025-12-13 19:05:12 2025 第五届“鹏城杯”联邦网络靶场协同攻防演练（初赛）个人 Writeup](https://bili33.top/posts/CTF-PCB2025-Preliminary-Round-Writeup/)
 - [2025-12-01 01:07:13 ADCTF 2025 个人出题记录](https://bili33.top/posts/Creating-Challenges-for-ADCTF2025/)
 - [2025-10-25 20:33:43 2025 羊城杯决赛个人做题思路 Writeup](https://bili33.top/posts/CTF-YCB2025-Finals/)
@@ -95,8 +96,7 @@
 - [2025-08-18 16:59:21 【Volcania】LilCTF2025 Writeup](https://bili33.top/posts/LilCTF2025-Writeup/)
 - [2025-06-22 12:37:00 【Volcania】DASCTF 2025 上半年线上赛 Writeup](https://bili33.top/posts/DASCTF-2025-First-Half-Writeup/)
 - [2025-05-27 00:42:59 【更新中】Web3 CTF 从入门到入土](https://bili33.top/posts/CTF-Web3-Guide/)
-- [2025-05-27 00:42:56 记一次因修改了 WindowsApps 文件夹权限导致的 UWP 应用无法通过运行打开的修复过程](https://bili33.top/posts/A-Log-that-Repair-Process-of-UWP-Apps-Failing-to-Open-Due-to-Modified-Permissions-of-the-WindowsApps-Folder/)
-- [2025-05-25 20:03:10 第十八届软件系统安全赛 CCSSSC 2025 全国总决赛复盘（旅行日记）](https://bili33.top/posts/CTF-CCSSSC2025-National-Finals/)<!-- BLOG-POST-LIST:END -->
+- [2025-05-27 00:42:56 记一次因修改了 WindowsApps 文件夹权限导致的 UWP 应用无法通过运行打开的修复过程](https://bili33.top/posts/A-Log-that-Repair-Process-of-UWP-Apps-Failing-to-Open-Due-to-Modified-Permissions-of-the-WindowsApps-Folder/)<!-- BLOG-POST-LIST:END -->
 <br />
 
 ----
