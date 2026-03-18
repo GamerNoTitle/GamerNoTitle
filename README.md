@@ -56,6 +56,10 @@
 
 </td></tr></table>  
 
+<img src="https://github-readme-stats.zcy.dev/api/wakatime?username=GamerNoTitle&locale=cn&langs_count=10">
+
+<p>Since Feb 13 2025 after using <a href="https://wakatime.com/@GamerNoTitle">Wakatime</a></p>
+
 </div>
 
 <br/>  
