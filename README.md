@@ -78,7 +78,7 @@
 ### Osu! Status
 
 <div align="center">
-<img src="https://osu-profile-stats.vercel.app/api/profile-stats/GamerNoTitle?version=full&height=200" />
+<img src="https://osucard.bili33.top/api/profile-stats/GamerNoTitle?version=full&height=200" />
 </div>
 
 <br/>
